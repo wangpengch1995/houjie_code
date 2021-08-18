@@ -38,10 +38,16 @@ complex::operator += (const complex& r)
 	return _doap1(this, r);
 }
 
+//inline complex
+//complex::operator + (double r)
+//{
+//	return _doap2(this, r);
+//}
+
 inline complex
 complex::operator + (double r)
 {
-	return _doap2(this, r);
+	return complex(re + r, im);
 }
 
 inline complex

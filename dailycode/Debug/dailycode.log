@@ -1,14 +1,2 @@
 ﻿  complex.cpp
-E:\project\houjie_test\dailycode\complex.h(16,48): error C2804: 二进制“operator +”的参数太多
-E:\project\houjie_test\dailycode\complex.cpp(50,26): error C2660: “complex::real”: 函数不接受 1 个参数
-E:\project\houjie_test\dailycode\complex.h(17,9): message : 参见“complex::real”的声明
-E:\project\houjie_test\dailycode\complex.cpp(50,36): error C2660: “complex::real”: 函数不接受 1 个参数
-E:\project\houjie_test\dailycode\complex.h(17,9): message : 参见“complex::real”的声明
-E:\project\houjie_test\dailycode\complex.cpp(51,23): error C2660: “complex::imag”: 函数不接受 1 个参数
-E:\project\houjie_test\dailycode\complex.h(18,9): message : 参见“complex::imag”的声明
-E:\project\houjie_test\dailycode\complex.cpp(51,33): error C2660: “complex::imag”: 函数不接受 1 个参数
-E:\project\houjie_test\dailycode\complex.h(18,9): message : 参见“complex::imag”的声明
-E:\project\houjie_test\dailycode\complex.cpp(70,18): error C2678: 二进制“+”: 没有找到接受“complex”类型的左操作数的运算符(或没有可接受的转换)
-E:\project\houjie_test\dailycode\complex.cpp(42,10): message : 可能是“complex complex::operator +(double)”
-E:\project\houjie_test\dailycode\complex.h(49,1): message : 或    “complex operator +(double,const complex &)”
-E:\project\houjie_test\dailycode\complex.cpp(70,18): message : 尝试匹配参数列表“(complex, complex)”时
+  dailycode.vcxproj -> E:\project\houjie_test\dailycode\Debug\dailycode.exe
